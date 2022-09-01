@@ -1,24 +1,14 @@
 # README
+A simple app running on rails developed during [John Elder](https://github.com/flatplanet) course.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Features
+* Create, update and delete an user.
+* Open and end user sessions, add, update and delete friends.
 
-Things you may want to cover:
+# Tech specs
 
-* Ruby version
+* Ruby version: 2.7 / Rails 5.2.8.1.
 
-* System dependencies
+* Style with bootstrap.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Gems: devise, pg.
