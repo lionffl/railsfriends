@@ -1,4 +1,4 @@
-# README
+# About
 A simple app running on rails developed during [John Elder](https://github.com/flatplanet) course.
 
 # Features
